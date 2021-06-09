@@ -102,7 +102,7 @@ ifadesi yazılır ve ":" işaretine basılarak "wq" ifadesi girilip Enter tuşun
 <p align="center">
  <img src="https://user-images.githubusercontent.com/44029095/121365825-a7311100-c941-11eb-90a4-7fa120f894a1.png">
 </p>
-
+":wq" ifadesinin anlamı, w=write, q=quit şeklinde olup "dosyanın üstüne yaz ve dosyadan çık" şeklindedir.<br> 
 Dosya kaydedilip çıkıldığında şöyle bir sonuç ile karşılaşılır: <br> 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/44029095/121366337-13ac1000-c942-11eb-81ca-ee7304c70b05.png">
