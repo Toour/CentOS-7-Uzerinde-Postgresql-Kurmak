@@ -112,7 +112,7 @@ Daha sonra CentOS üzerinde çalışacak Postgresql için gerekli paket indirilm
 Paketi indirmek için aşağıdaki komut çalıştırılır: <br>
 > sudo yum install https://download.postgresql.org/pub/repos/yum/reporpms/EL-7-x86_64/pgdg-redhat-repo-latest.noarch.rpm <br>
 
-Ekran görüntüsü: <br><br>
+Ekran görüntüsü: <br>
 <p align="center">
  <img src="https://user-images.githubusercontent.com/44029095/121367838-4d314b00-c943-11eb-809a-85f9a13ee490.png">
 </p>
