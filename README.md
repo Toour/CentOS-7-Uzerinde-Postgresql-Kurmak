@@ -1,0 +1,1 @@
+# VM-zerinde-Postgresql-kurmak
