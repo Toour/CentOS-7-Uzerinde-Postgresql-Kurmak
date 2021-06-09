@@ -41,7 +41,18 @@ ISO dosyamız indirilirken o sırada biz makinemiz için gerekli iskeleti oluşt
 <p align="center">
   <img src="https://user-images.githubusercontent.com/44029095/121354013-24a35400-c937-11eb-8022-208ee3f0e968.png">
 </p>
-10. 
+10. "CD/DVD" bölümüne giderek aşağıda görülen seçenekleri seçiyoruz. "Connect at power on" seçeneğinin seçili olması gerekmektedir. Connection kısmı için ise "Use ISO image file" seçeneğini seçerek "Browse" tuşu ile indirmiş olduğumuz ISO dosyamızı seçiyoruz. <br><br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/44029095/121354564-a98e6d80-c937-11eb-82ed-1c019bf93a87.png">
+</p>
+11. Daha sonra aşağıdaki "OK" butonuna basarak makinamızı fiziksel olarak kurmuş oluyoruz. Şimdi ise makineyi çalıştırmak ve boot kurulumunu yapmak kalıyor.
+12. Öncelikle makineyi çalıştırıyoruz. Karşımıza aşağıdaki gibi bir ekran geliyor. Burada ilk seçeneği ok tuşları ile seçerek enter tuşu ile kurulumu başlatıyoruz.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/44029095/121354945-0e49c800-c938-11eb-831b-a9812ca59ed5.png">
+</p>
+13. 
+
+
 
 
 
