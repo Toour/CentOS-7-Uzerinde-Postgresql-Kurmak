@@ -45,12 +45,20 @@ ISO dosyamız indirilirken o sırada biz makinemiz için gerekli iskeleti oluşt
 <p align="center">
   <img src="https://user-images.githubusercontent.com/44029095/121354564-a98e6d80-c937-11eb-82ed-1c019bf93a87.png">
 </p>
-11. Daha sonra aşağıdaki "OK" butonuna basarak makinamızı fiziksel olarak kurmuş oluyoruz. Şimdi ise makineyi çalıştırmak ve boot kurulumunu yapmak kalıyor.
-12. Öncelikle makineyi çalıştırıyoruz. Karşımıza aşağıdaki gibi bir ekran geliyor. Burada ilk seçeneği ok tuşları ile seçerek enter tuşu ile kurulumu başlatıyoruz.
+11. Daha sonra aşağıdaki "OK" butonuna basarak makinamızı fiziksel olarak kurmuş oluyoruz. Şimdi ise makineyi çalıştırmak ve boot kurulumunu yapmak kalıyor. <br>
+12. Öncelikle makineyi çalıştırıyoruz. Karşımıza aşağıdaki gibi bir ekran geliyor. Burada ilk seçeneği ok tuşları ile seçerek enter tuşu ile kurulumu başlatıyoruz.<br><br>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/44029095/121354945-0e49c800-c938-11eb-831b-a9812ca59ed5.png">
 </p>
-13. 
+13. Enter'a bastıktan sonra birkaç saniye sonrasında aşağıdaki ekran ile karşılaşıyoruz. İstediğimiz dili seçerek devam et seçeneğine tıklıyoruz. (Türkçe dili de mevcut.) <br><br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/44029095/121355261-5ff25280-c938-11eb-9110-e4ca60a34505.png">
+</p>
+14. Kurulum özeti ekranı ile karşılaşıyoruz. Bu ekranda ikaz ifadesinin görüntülendiği seçenek olan "Installiation Destination" seçeneğine tıklıyoruz. Bende bu seçenek yok demeyin, scroll down yaparak bulabilirsiniz :) <br><br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/44029095/121355661-c4adad00-c938-11eb-87f3-be0d52d02cf2.png">
+</p>
+15. 
 
 
 
