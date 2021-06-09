@@ -1,6 +1,7 @@
 # VMware Workstation Üzerinde Postgresql Kurmak
 ## Sanal Makinenin Kurulumu
 - Öncelikle burada vermiş olduğum linke giderek gerekli CentOS ISO dosyasını indirmemiz gerekiyor. Link: [Buradan İndirebilirsiniz...](https://www.centos.org/download/)
+- Link sizi çeşitli mirror linklerin olduğu bir siteye yönlendirecek. Burada herhangi bir mirror link'i seçerek indirme işlemini kolaylıkla başlatabilirsiniz. <br>
 
 Ben CentOS Linux 7 x86_64 ISO dosyasını indirmeyi tercih ettim. Yaklaşık olarak 1 GB boyutunda bir dosya. <br>
 ISO dosyamız indirilirken o sırada biz makinemiz için gerekli iskeleti oluşturmaya başlayalım: <br>
@@ -22,6 +23,12 @@ ISO dosyamız indirilirken o sırada biz makinemiz için gerekli iskeleti oluşt
 </p>
 5. Bir sonraki adımda bizden disk boyutu ve diskin bölümlendirilmesi hakkında seçenek isteyecektir. Disk boyutunu 20GB olan default değer olarak bırakabilir ve alttaki seçeneğe ise hiç dokunmadan bir sonraki adıma geçiş yapabilirsiniz. <br><br>
 <p align="center">
+  <img src="https://user-images.githubusercontent.com/44029095/121352982-0e48c880-c936-11eb-9f1d-161eba01ac92.png">
+</p>
+6. Sonraki sayfada sanal makinamızın genel özellikleri görülmektedir. "Finish" seçeneğini seçerek makinamızın iskeletinin kurulumunu tamamlıyoruz. <br><br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/44029095/121353214-4819cf00-c936-11eb-95ec-745a1bce8f10.png">
+</p>
 
 
 
