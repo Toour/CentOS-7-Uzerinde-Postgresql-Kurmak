@@ -58,7 +58,20 @@ ISO dosyamız indirilirken o sırada biz makinemiz için gerekli iskeleti oluşt
 <p align="center">
   <img src="https://user-images.githubusercontent.com/44029095/121355661-c4adad00-c938-11eb-87f3-be0d52d02cf2.png">
 </p>
-15. 
+15. Daha önce belirlemiş olduğumuz 20GB'lık diski işaretleyerek sol-yukarıda bulunan "Done" butonuna tıklıyoruz. <br><br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/44029095/121355899-09394880-c939-11eb-90e1-4c5c90a914dc.png">
+</p>
+16. Daha sonra Software alanı altında yer alan "Software Selection" seçeneğine tıklıyoruz. <br><br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/44029095/121356187-4d2c4d80-c939-11eb-853d-41875cadffd0.png">
+</p>
+17. Bu başlık altında GUI kurmak ve sanal makinenizi uzaktan görüntülemek gibi seçenekler bulunmakta. Aşağıdaki seçenekleri seçerek "Done" butonuna basabilirsiniz. Eğer ISO dosyanızı minimal olarak indirmiş iseniz bu seçenekleri göremezsiniz. <br><br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/44029095/121356665-bb711000-c939-11eb-9271-63971bbfaaf6.png">
+</p>
+18. 
+
 
 
 
