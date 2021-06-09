@@ -1,5 +1,8 @@
 # VMware Workstation Üzerinde Postgresql Kurmak
 ## Sanal Makinenin Kurulumu
+- Kullanılıcak sanallaştırma ortamı: VMware Workstation 16
+- Kurulacak sanal makina: CentOS 7 - 64 bit (minimal)
+- Sanal makina üzerinde çalıştırılacak veritabanı: Postgresql
 - Öncelikle burada vermiş olduğum linke giderek gerekli CentOS ISO dosyasını indirmemiz gerekiyor. Link: [Buradan İndirebilirsiniz...](https://www.centos.org/download/)
 - Link sizi çeşitli mirror linklerin olduğu bir siteye yönlendirecek. Burada herhangi bir mirror link'i seçerek indirme işlemini kolaylıkla başlatabilirsiniz. <br>
 
@@ -33,7 +36,7 @@ ISO dosyamız indirilirken o sırada biz makinemiz için gerekli iskeleti oluşt
 <p align="center">
   <img src="https://user-images.githubusercontent.com/44029095/121353578-af378380-c936-11eb-9a83-fa2d0a0546cb.png">
 </p>
-8. Karşımıza gelen pencere üzerinde "Memory" bölümünde makinenin memory değerini 2 GB olarak ayarlıyoruz. <br><br>
+8. Karşımıza gelen pencere üzerinde "Memory" bölümünde makinenin memory değerini 2 GB olarak ayarlıyoruz. (Eğer minimal kurulum ise 1 GB olarak da bırakılabilir.) <br><br>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/44029095/121353842-fa519680-c936-11eb-9743-c9d8ef8d9ba6.png">
 </p>
