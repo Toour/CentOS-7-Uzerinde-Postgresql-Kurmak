@@ -98,14 +98,19 @@ Komutun anlamı: makinenin Base Repository bölümünü "Vi" editörü ile editl
 - Burada [base] ve [updates] başlıkları altına <br>
 > exclude=postgresql*
 
-ifadesi yazılır ve ":" işaretine basılarak "wq" ifadesi girilip Enter tuşuna basılır.
+ifadesi yazılır ve ":" işaretine basılarak "wq" ifadesi girilip Enter tuşuna basılır.<br>
 <p align="center">
  <img src="https://user-images.githubusercontent.com/44029095/121365825-a7311100-c941-11eb-90a4-7fa120f894a1.png">
 </p>
 ":wq" ifadesinin anlamı, w=write, q=quit şeklinde olup "dosyanın üstüne yaz ve dosyadan çık" şeklindedir.<br> 
-Dosya kaydedilip çıkıldığında şöyle bir sonuç ile karşılaşılır: <br> 
+Dosya kaydedilip çıkıldığında şöyle bir sonuç ile karşılaşılır: <br><br>
 <p align="center">
  <img src="https://user-images.githubusercontent.com/44029095/121366337-13ac1000-c942-11eb-81ca-ee7304c70b05.png">
 </p>
+
+Daha sonra CentOS üzerinde çalışacak Postgresql için gerekli paket indirilmesi gerçekleştirilir. <br>
+Paketi indirmek için aşağıdaki komut çalıştırılır: <br>
+> sudo yum install https://download.postgresql.org/pub/repos/yum/reporpms/EL-7-x86_64/pgdg-redhat-repo-latest.noarch.rpm
+
 
 
