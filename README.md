@@ -1,2 +1,4 @@
-# VM Üzerinde Postgresql Kurmak
-## VM Kurulumu
+# VMware Workstation Üzerinde Postgresql Kurmak
+## Sanal Makinenin Kurulumu
+
+
