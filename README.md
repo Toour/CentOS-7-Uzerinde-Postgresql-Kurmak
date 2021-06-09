@@ -8,5 +8,11 @@ ISO dosyamız indirilirken o sırada biz makinemiz için gerekli iskeleti oluşt
 <p align="center">
 <img src="https://user-images.githubusercontent.com/44029095/121349966-c2485480-c932-11eb-95f5-d7f7a55d8498.png">
 </p>
+2. Daha sonra aşağıda görülen bir ekran ile karşı karşıya geleceğiz. Bu durumda 2. seçeneği işaretleyerek şu an inmekte olan ISO dosyamızı, makineye daha sonra aktaracağımızı belirtiyoruz ve "NEXT" tuşuna basıyoruz.<br><br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/44029095/121350791-be690200-c933-11eb-992b-bd479108cc26.png">
+</p>
+
+
 
 
