@@ -29,6 +29,19 @@ ISO dosyamız indirilirken o sırada biz makinemiz için gerekli iskeleti oluşt
 <p align="center">
   <img src="https://user-images.githubusercontent.com/44029095/121353214-4819cf00-c936-11eb-95ec-745a1bce8f10.png">
 </p>
+7. Daha sonra aşağıda görüldüğü üzere kurmuş olduğumuz makinemizin üzerine sağ tıklayarak "settings" seçeneğine tıklıyoruz. <br><br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/44029095/121353578-af378380-c936-11eb-9a83-fa2d0a0546cb.png">
+</p>
+8. Karşımıza gelen pencere üzerinde "Memory" bölümünde makinenin memory değerini 2 GB olarak ayarlıyoruz. <br><br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/44029095/121353842-fa519680-c936-11eb-9743-c9d8ef8d9ba6.png">
+</p>
+9. "Memory" bölümünün hemen altında bulunan "Processors" bölümüne geçip işlemicimizi 2'ye ayarlıyoruz. <br><br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/44029095/121354013-24a35400-c937-11eb-8022-208ee3f0e968.png">
+</p>
+10. 
 
 
 
