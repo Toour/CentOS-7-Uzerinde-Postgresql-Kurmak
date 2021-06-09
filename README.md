@@ -1,1 +1,2 @@
-# VM-zerinde-Postgresql-kurmak
+# VM Üzerinde Postgresql Kurmak
+## VM Kurulumu
