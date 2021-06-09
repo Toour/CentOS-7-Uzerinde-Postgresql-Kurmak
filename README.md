@@ -86,8 +86,26 @@ ISO dosyamız indirilirken o sırada biz makinemiz için gerekli iskeleti oluşt
   <img src="https://user-images.githubusercontent.com/44029095/121357680-a943a180-c93a-11eb-949b-f83ba14526e3.png">
 </p>
 
+## Postgresql Kurulumu
+- Şimdi sanal makine üzerinde postgresql kurulumu gerçekleştirilecektir. <br>
+- İlk olarak makine çalışır durumda iken kullanıcı ve şifre girilir.
+- Daha sonra <br>
+> sudo vi /etc/yum.repos.d/CentOS-Base.repo
 
+ 
+komutu çalıştırılır <br>
+Komutun anlamı: makinenin Base Repository bölümünü "Vi" editörü ile editle.<br>
+- Burada [base] ve [updates] başlıkları altına <br>
+> exclude=postgresql*
 
+ifadesi yazılır ve ":" işaretine basılarak "wq" ifadesi girilip Enter tuşuna basılır.
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/44029095/121365825-a7311100-c941-11eb-90a4-7fa120f894a1.png">
+</p>
 
+Dosya kaydedilip çıkıldığında şöyle bir sonuç ile karşılaşılır: <br> 
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/44029095/121366337-13ac1000-c942-11eb-81ca-ee7304c70b05.png">
+</p>
 
 
