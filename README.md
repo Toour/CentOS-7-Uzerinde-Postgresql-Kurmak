@@ -12,6 +12,11 @@ ISO dosyamız indirilirken o sırada biz makinemiz için gerekli iskeleti oluşt
 <p align="center">
   <img src="https://user-images.githubusercontent.com/44029095/121350791-be690200-c933-11eb-992b-bd479108cc26.png">
 </p>
+3. Karşılaştığımız sayfada işletim sistemini ve seçilen işletim sisteminin hangi sürümünü kullanacağını işaretliyoruz. Eğer CentOS 8 - 64 bit kuracaksınız aşağıda görülen seçenekleri seçmeniz gerekmekte. <br><br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/44029095/121351335-5535be80-c934-11eb-8772-8f875b1064c1.png">
+</p>
+
 
 
 
