@@ -70,8 +70,18 @@ ISO dosyamız indirilirken o sırada biz makinemiz için gerekli iskeleti oluşt
 <p align="center">
   <img src="https://user-images.githubusercontent.com/44029095/121356665-bb711000-c939-11eb-9271-63971bbfaaf6.png">
 </p>
-18. 
-
+18. Gerekli seçenekleri seçmiş bulunmaktayız. Artık ana menüden "Begin Installiation" seçeneğini seçerek makinenin kurulumunu tamamlayabiliriz. Fakat bu butona bastıktan sonra makine bizlerden bir şifre ve kullanıcı oluşturmamızı isteyecektir. <br><br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/44029095/121356961-0d199a80-c93a-11eb-855a-ca4541a40ae8.png">
+</p>
+19. Bir root şifresi ve bir kullanıcı oluştururken arkaplanda zaten makine kurulmaya başlanmış oluyor. Artık sadece beklememiz gerekiyor. <br><br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/44029095/121357409-77323f80-c93a-11eb-938e-3908e8bf267e.png">
+</p>
+20. Gerekli kurulum tamamlandığında, aşağıda görüldüğü gibi makinemiz bizden kendisini reboot etmemizi istiyor. Makineyi reboot ederek artık kullanıma hazır hale getirmiş oluyoruz. <br><br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/44029095/121357680-a943a180-c93a-11eb-949b-f83ba14526e3.png">
+</p>
 
 
 
