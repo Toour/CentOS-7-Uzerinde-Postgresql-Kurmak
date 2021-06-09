@@ -16,6 +16,10 @@ ISO dosyamız indirilirken o sırada biz makinemiz için gerekli iskeleti oluşt
 <p align="center">
   <img src="https://user-images.githubusercontent.com/44029095/121351335-5535be80-c934-11eb-8772-8f875b1064c1.png">
 </p>
+4. Daha sonra sanal makinenizi isimlendirmeniz ve makinenin dosyalarının depolanacağı yeri seçmeniz istenecek. Makineyi isimlendirip lokasyonu default dğer olarak bırakabilirsiniz.<br><br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/44029095/121351680-b65d9200-c934-11eb-98e0-00868923942e.png">
+</p>
 
 
 
