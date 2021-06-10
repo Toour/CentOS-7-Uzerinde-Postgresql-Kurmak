@@ -135,14 +135,21 @@ Komutun anlamı: makinenin Base Repository bölümünü "Vi" editörü ile editl
 - Burada [base] ve [updates] başlıkları altına <br>
 > exclude=postgresql*
 
-ifadesi yazılır ve ":" işaretine basılarak "wq" ifadesi girilip Enter tuşuna basılır.<br>
+ifadesi yazılır. <br>
 <p align="center">
- <img src="https://user-images.githubusercontent.com/44029095/121365825-a7311100-c941-11eb-90a4-7fa120f894a1.png">
+ <img src="https://user-images.githubusercontent.com/44029095/121472074-59f88200-c9c9-11eb-9100-bfc4fb93d290.png">
 </p>
+
+
+":" işaretine basılarak "wq" ifadesi girilip Enter tuşuna basılır.<br>
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/44029095/121472175-7d233180-c9c9-11eb-9266-310e7ad1c828.png">
+</p>
+
 ":wq" ifadesinin anlamı, w=write, q=quit şeklinde olup "dosyanın üstüne yaz ve dosyadan çık" şeklindedir.<br> 
 Dosya kaydedilip çıkıldığında şöyle bir sonuç ile karşılaşılır: <br><br>
 <p align="center">
- <img src="https://user-images.githubusercontent.com/44029095/121366337-13ac1000-c942-11eb-81ca-ee7304c70b05.png">
+ <img src="https://user-images.githubusercontent.com/44029095/121472335-b8bdfb80-c9c9-11eb-81a5-2c8d211e0543.png">
 </p>
 
 Daha sonra CentOS üzerinde çalışacak Postgresql için gerekli paket indirilmesi gerçekleştirilir. <br>
