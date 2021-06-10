@@ -186,3 +186,27 @@ Her şey tamamlandıktan sonra aşağıdaki görüntü ile karşılaşılır. <b
 <p align="center">
  <img src="https://user-images.githubusercontent.com/44029095/121475560-3dab1400-c9ce-11eb-8b84-d6a918831729.png">
 </p>
+
+Böylelikle server'ın yazılımsal kısmı yüklenmiş olmaktadır. Şimdi ise Postgresql için yeni bir veritabanı cluster'ı oluşturma zamanı. <br>
+Veritabanı kullanılmadan önce bir cluster oluşturulması gerekmektedir. Cluster, tek bir server örneği tarafından yönetilen veritabanı koleksiyonuna verilen addır. <br>
+Aşağıdaki komut çalıştırılarak Postgresql veritabanı cluster'ı oluşturulur: <br>
+~~~
+sudo /usr/pgsql-11/bin/postgresql-11-setup initdb
+~~~
+Ekran Görüntüsü:
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/44029095/121476661-9e871c00-c9cf-11eb-941b-067342bfd9e0.png">
+</p>
+
+Sırada Postgresql'in başlatılması ve aktif hale getirilmesi var. Aşağıdaki komutlar sırayla çalıştırılarak bu iş yapılır: <br>
+~~~
+sudo systemctl start postgresql-11
+sudo systemctl enable postgresql-11
+~~~
+Ekran Görüntüsü: <br>
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/44029095/121477047-05a4d080-c9d0-11eb-892d-ced87852a5c7.png">
+</p>
+
+
+
