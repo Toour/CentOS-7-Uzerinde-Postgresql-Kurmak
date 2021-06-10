@@ -226,7 +226,13 @@ ve "listen_addresses" ifadesi "\*" işareti olarak belirtilirken, port ve listen
  <img src="https://user-images.githubusercontent.com/44029095/121512165-1bc38880-c9f2-11eb-8915-9f0f631605b3.png">
 </p>
 
-
-
-
+Son olarak artık sunucuyu tekrardan başlatmamız gerekiyor. Bu işlem için aşağıdaki komut kullanılır:<br>
+~~~
+systemctl restart postgresql-11.service
+~~~
+Ya da
+~~~
+systemctl stop postgresql-11
+systemctl start postgresql-11
+~~~
 
