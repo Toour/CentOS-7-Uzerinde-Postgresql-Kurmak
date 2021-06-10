@@ -1,4 +1,4 @@
-# VMware Workstation Üzerinde Postgresql Kurmak
+# VMware Workstation ile CentOS 7 üzerinde Postgresql Kurmak
 ## Sanal Makinenin Kurulumu
 - Kullanılıcak sanallaştırma ortamı: VMware Workstation 16
 - Kurulacak sanal makina: CentOS 7 - 64 bit (minimal)
@@ -118,12 +118,20 @@ ISO dosyamız indirilirken o sırada biz makinemiz için gerekli iskeleti oluşt
   <img src="https://user-images.githubusercontent.com/44029095/121469853-e5701400-c9c5-11eb-8ab4-3d1cb45eb497.png">
 </p>
 
+- Putty bağlantısı kurulunca aşağıdaki ekran ile karşılaşılır. İstenilen kullanıcı ile oturum açılabilir. Burada "root" kullanıcısı ile daha önce CentOS'un kurulumunda belirlenmiş root şifresi sayesinde oturum açılır: <br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/44029095/121470119-5f080200-c9c6-11eb-80a5-1f87fb81f584.png">
+</p>
+
 - Daha sonra <br>
 > sudo vi /etc/yum.repos.d/CentOS-Base.repo
-
  
 komutu çalıştırılır <br>
 Komutun anlamı: makinenin Base Repository bölümünü "Vi" editörü ile editle.<br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/44029095/121470459-ee151a00-c9c6-11eb-960f-b846c5edb976.png">
+</p>
+
 - Burada [base] ve [updates] başlıkları altına <br>
 > exclude=postgresql*
 
