@@ -235,4 +235,9 @@ Ya da
 systemctl stop postgresql-11
 systemctl start postgresql-11
 ~~~
+Artık sunucumuz ile her türlü bağlantı kurabilir, Putty uygulaması üzerinden işlem yapabilir ve yönetebiliriz. :) <br>
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/44029095/121534382-d7dc7d80-ca09-11eb-82a1-cbe4abd2920e.png">
+</p>
+
 
