@@ -210,14 +210,21 @@ Ekran Görüntüsü: <br>
 
 Kurmuş olduğumuz veritabanı sunucusu şu an çalışır durumda. Fakat sunucuya uzaktan bağlantı yapılacağı için sunucunun tüm bağlantılarını kabul etmesini sağlayacak config ayarlarının gerçekleştirilmesi gerekmektedir. Bu işlem için öncelikle aşağıdaki komut çalıştırılır: <br>
 ~~~
-sudo vi /var/lib/pgsql/12/data/pg_hba.conf
+sudo vi /var/lib/pgsql/11/data/pg_hba.conf
 ~~~
 ve IPv4 başlığı altındaki yerler görselde gösterildiği gibi değiştirilir: <br>
 <p align="center">
  <img src="https://user-images.githubusercontent.com/44029095/121511582-74465600-c9f1-11eb-851b-000c40e481c4.png">
 </p>
 
-
+Diğer bir işlem olarak aşağıdaki komut çalıştırılır: <br>
+~~~
+sudo vi /var/lib/pgsql/11/data/postgresql.conf
+~~~
+ve "listen_addresses" ifadesi "\*" işareti olarak belirtilirken, port ve listen_adresses ifadelerinin başlarında "#" ifadesi yer **almamalıdır!** <br> 
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/44029095/121512165-1bc38880-c9f2-11eb-8915-9f0f631605b3.png">
+</p>
 
 
 
