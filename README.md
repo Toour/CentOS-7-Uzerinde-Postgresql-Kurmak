@@ -147,10 +147,8 @@ ifadesi yazılır. <br>
 </p>
 
 ":wq" ifadesinin anlamı, w=write, q=quit şeklinde olup "dosyanın üstüne yaz ve dosyadan çık" şeklindedir.<br> 
-Dosya kaydedilip çıkıldığında şöyle bir sonuç ile karşılaşılır: <br><br>
-<p align="center">
- <img src="https://user-images.githubusercontent.com/44029095/121472335-b8bdfb80-c9c9-11eb-81a5-2c8d211e0543.png">
-</p>
+
+
 
 Daha sonra CentOS üzerinde çalışacak Postgresql için gerekli paket indirilmesi gerçekleştirilir. <br>
 Paketi indirmek için aşağıdaki komut çalıştırılır: <br>
@@ -158,7 +156,7 @@ Paketi indirmek için aşağıdaki komut çalıştırılır: <br>
 
 Ekran görüntüsü: <br>
 <p align="center">
- <img src="https://user-images.githubusercontent.com/44029095/121367838-4d314b00-c943-11eb-809a-85f9a13ee490.png">
+ <img src="https://user-images.githubusercontent.com/44029095/121472335-b8bdfb80-c9c9-11eb-81a5-2c8d211e0543.png">
 </p>
 
 
