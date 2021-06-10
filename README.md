@@ -2,7 +2,7 @@
 ## Sanal Makinenin Kurulumu
 - Kullanılıcak sanallaştırma ortamı: VMware Workstation 16
 - Kurulacak sanal makina: CentOS 7 - 64 bit (minimal)
-- Sanal makina üzerinde çalıştırılacak veritabanı: Postgresql
+- Sanal makina üzerinde çalıştırılacak veritabanı: Postgresql 11
 - Öncelikle burada vermiş olduğum linke giderek gerekli CentOS ISO dosyasını indirmemiz gerekiyor. Link: [Buradan İndirebilirsiniz...](https://www.centos.org/download/)
 - Link sizi çeşitli mirror linklerin olduğu bir siteye yönlendirecek. Burada herhangi bir mirror link'i seçerek indirme işlemini kolaylıkla başlatabilirsiniz. <br>
 
@@ -176,3 +176,10 @@ Daha sonra Postgresql server'ı kurmak için aşağıdaki komut çalıştırıl�
 ~~~
 sudo yum install postgresql11-server
 ~~~
+Komut çalışırken arada gelecek olan seçeneklere "y" yazarak devam edilir. <br>
+Ekran Görüntüsü: <br>
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/44029095/121475093-a940b180-c9cd-11eb-8bb2-2b52e2b3f9b2.png"> <br>
+ <img src="https://user-images.githubusercontent.com/44029095/121475257-d725f600-c9cd-11eb-8600-d9e2733c97b4.png">
+</p>
+
