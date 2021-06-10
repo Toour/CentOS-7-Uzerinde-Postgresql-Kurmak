@@ -88,7 +88,36 @@ ISO dosyamız indirilirken o sırada biz makinemiz için gerekli iskeleti oluşt
 
 ## Postgresql Kurulumu
 - Şimdi sanal makine üzerinde postgresql kurulumu gerçekleştirilecektir. <br>
-- İlk olarak makine çalışır durumda iken kullanıcı ve şifre girilir.
+- İlk olarak makineyi uzaktan kontrol etmek için "Putty" adlı uygulamayı indirmemiz gerekiyor. Buradan indirebilirsiniz: [putty.org](https://www.putty.org/) <br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/44029095/121468152-0125eb00-c9c3-11eb-9940-ee77eae6c1f4.png">
+</p>
+
+- Minimal kurulu olduğu için terminal ile karşı karşıya kalınır. Çalışır durumda olan makineye giriş yapılır. <br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/44029095/121468871-2c5d0a00-c9c4-11eb-9781-d68cd9126baf.png">
+</p>
+
+- "ip addr show" komutu ile makinenin IP adresi öğrenilir. <br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/44029095/121468963-58788b00-c9c4-11eb-8819-76be22a1037e.png">
+</p>
+
+- Eğer IP adresi gözükmüyor ise telaşa gerek yok. "dhclient ens33" komutu ile makinenin ağ üzerinde bir IP kazanması sağlanılır. Dikkat edilmesi gereken şey ise bu işlemin yönetici izni gerektirmesidir. Yani komutun başına "sudo" ekleyerek yazılması gerekmektedir.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/44029095/121469291-ec4a5700-c9c4-11eb-83c5-cd20b4d3506d.png">
+</p>
+
+- Putty uygulaması açılır ve aşağıdaki ekran ile karşılaşılır. <br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/44029095/121469545-5b27b000-c9c5-11eb-8d5e-27b443effb6e.png">
+</p>
+
+- Putty uygulaması üzerinden makinenin IP adresi aşağıda gösterilen yere girilir ve SSH bağlantısı seçilerek bağlantı kurulur. <br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/44029095/121469853-e5701400-c9c5-11eb-8ab4-3d1cb45eb497.png">
+</p>
+
 - Daha sonra <br>
 > sudo vi /etc/yum.repos.d/CentOS-Base.repo
 
