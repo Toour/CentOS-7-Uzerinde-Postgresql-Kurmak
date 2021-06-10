@@ -179,7 +179,10 @@ sudo yum install postgresql11-server
 Komut çalışırken arada gelecek olan seçeneklere "y" yazarak devam edilir. <br>
 Ekran Görüntüsü: <br>
 <p align="center">
- <img src="https://user-images.githubusercontent.com/44029095/121475093-a940b180-c9cd-11eb-8bb2-2b52e2b3f9b2.png"> <br>
- <img src="https://user-images.githubusercontent.com/44029095/121475257-d725f600-c9cd-11eb-8600-d9e2733c97b4.png">
+ <img src="https://user-images.githubusercontent.com/44029095/121475093-a940b180-c9cd-11eb-8bb2-2b52e2b3f9b2.png">
 </p>
 
+Her şey tamamlandıktan sonra aşağıdaki görüntü ile karşılaşılır. <br>
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/44029095/121475560-3dab1400-c9ce-11eb-8b84-d6a918831729.png">
+</p>
