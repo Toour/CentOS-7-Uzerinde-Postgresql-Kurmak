@@ -167,9 +167,12 @@ Aşağıdaki komut kullanılarak kullanılabilir tüm paketler ve versiyonları 
 ~~~
 yum list postgresql*
 ~~~
+Ekran Görüntüsü: <br>
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/44029095/121473615-9f1db380-c9cb-11eb-857d-23969670ded8.png">
+</p>
 
-
-
-
-
-
+Daha sonra Postgresql server'ı kurmak için aşağıdaki komut çalıştırılır: <br>
+~~~
+sudo yum install postgresql11-server
+~~~
