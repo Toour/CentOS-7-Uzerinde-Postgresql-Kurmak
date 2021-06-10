@@ -87,6 +87,7 @@ ISO dosyamız indirilirken o sırada biz makinemiz için gerekli iskeleti oluşt
 </p>
 
 ## Postgresql Kurulumu
+### Postgresql'in indirilmesi
 - Şimdi sanal makine üzerinde postgresql kurulumu gerçekleştirilecektir. <br>
 - İlk olarak makineyi uzaktan kontrol etmek için "Putty" adlı uygulamayı indirmemiz gerekiyor. Buradan indirebilirsiniz: [putty.org](https://www.putty.org/) <br>
 <p align="center">
@@ -124,8 +125,10 @@ ISO dosyamız indirilirken o sırada biz makinemiz için gerekli iskeleti oluşt
 </p>
 
 - Daha sonra <br>
-> sudo vi /etc/yum.repos.d/CentOS-Base.repo
- 
+~~~
+sudo vi /etc/yum.repos.d/CentOS-Base.repo
+~~~
+
 komutu çalıştırılır <br>
 Komutun anlamı: makinenin Base Repository bölümünü "Vi" editörü ile editle.<br>
 <p align="center">
@@ -133,7 +136,9 @@ Komutun anlamı: makinenin Base Repository bölümünü "Vi" editörü ile editl
 </p>
 
 - Burada [base] ve [updates] başlıkları altına <br>
-> exclude=postgresql*
+~~~
+exclude=postgresql*
+~~~
 
 ifadesi yazılır. <br>
 <p align="center">
@@ -147,17 +152,23 @@ ifadesi yazılır. <br>
 </p>
 
 ":wq" ifadesinin anlamı, w=write, q=quit şeklinde olup "dosyanın üstüne yaz ve dosyadan çık" şeklindedir.<br> 
-
-
-
 Daha sonra CentOS üzerinde çalışacak Postgresql için gerekli paket indirilmesi gerçekleştirilir. <br>
 Paketi indirmek için aşağıdaki komut çalıştırılır: <br>
-> sudo yum install https://download.postgresql.org/pub/repos/yum/reporpms/EL-7-x86_64/pgdg-redhat-repo-latest.noarch.rpm <br>
+~~~
+sudo yum install https://download.postgresql.org/pub/repos/yum/reporpms/EL-7-x86_64/pgdg-redhat-repo-latest.noarch.rpm <br>
+~~~
 
 Ekran görüntüsü: <br>
 <p align="center">
  <img src="https://user-images.githubusercontent.com/44029095/121472335-b8bdfb80-c9c9-11eb-81a5-2c8d211e0543.png">
 </p>
+
+Aşağıdaki komut kullanılarak kullanılabilir tüm paketler ve versiyonları görüntülenebilir. Burada paketlerin hepsi "y" yazarak yüklenebilir.<br>
+~~~
+yum list postgresql*
+~~~
+
+
 
 
 
